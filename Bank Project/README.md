@@ -15,7 +15,9 @@ Each element stores the account number and current balance.
 
 Input Format:
 The number of accounts (C) to be maintained.
+
 C space-separated unsigned integers denoting account numbers.
+
 The number of transactions (N) to be maintained.
 N lines of transactions: Each line specifies a deposit or withdrawal.
 Processing directives:
